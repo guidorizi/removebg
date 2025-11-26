@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1764127314000,
+      "tag": "0000_powerful_kid_colt",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1764127384302,
+      "tag": "0001_hard_wild_pack",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1764133354220,
+      "tag": "0002_charming_marauders",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1764133759529,
+      "tag": "0003_tranquil_zuras",
+      "breakpoints": true
+    }
+  ]
+}
